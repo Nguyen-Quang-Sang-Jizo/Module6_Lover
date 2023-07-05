@@ -1,0 +1,145 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "cities": ["Kabul", "Herat", "Mazar-i-Sharif", "Kandahar"]
+    },
+    {
+      "name": "Bangladesh",
+      "cities": ["Dhaka", "Chittagong", "Khulna", "Rajshahi"]
+    },
+    {
+      "name": "China",
+      "cities": ["Beijing", "Shanghai", "Guangzhou", "Shenzhen"]
+    },
+    {
+      "name": "India",
+      "cities": ["Mumbai", "Delhi", "Bangalore", "Kolkata"]
+    },
+    {
+      "name": "Indonesia",
+      "cities": ["Jakarta", "Surabaya", "Bandung", "Medan"]
+    },
+    {
+      "name": "Japan",
+      "cities": ["Tokyo", "Osaka", "Kyoto", "Yokohama"]
+    },
+    {
+      "name": "South Korea",
+      "cities": ["Seoul", "Busan", "Incheon", "Daegu"]
+    },
+    {
+      "name": "Malaysia",
+      "cities": ["Kuala Lumpur", "Penang", "Johor Bahru", "Ipoh"]
+    },
+    {
+      "name": "Philippines",
+      "cities": ["Manila", "Quezon City", "Cebu City", "Makati"]
+    },
+    {
+      "name": "Thailand",
+      "cities": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"]
+    },
+    {
+      "name": "Vietnam",
+      "cities": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng",
+        "Hải Phòng",
+        "Cần Thơ",
+        "Biên Hòa",
+        "Nha Trang",
+        "Huế",
+        "Đồng Nai",
+        "Vũng Tàu",
+        "Hải Dương",
+        "Bắc Giang",
+        "Quảng Ninh",
+        "Nam Định",
+        "Thanh Hóa",
+        "Nghệ An",
+        "Hà Tĩnh",
+        "Quảng Bình",
+        "Quảng Trị",
+        "Thừa Thiên-Huế",
+        "Quảng Nam",
+        "Quảng Ngãi",
+        "Bình Định",
+        "Phú Yên",
+        "Khánh Hòa",
+        "Gia Lai",
+        "Đắk Lắk",
+        "Lâm Đồng",
+        "Bình Thuận",
+        "Kon Tum",
+        "Đồng Tháp",
+        "An Giang",
+        "Tiền Giang",
+        "Long An",
+        "Bà Rịa-Vũng Tàu",
+        "Bến Tre",
+        "Trà Vinh",
+        "Vĩnh Long",
+        "Cà Mau",
+        "Hậu Giang",
+        "Sóc Trăng",
+        "Bạc Liêu",
+        "Kiên Giang",
+        "Bắc Ninh",
+        "Bắc Kạn",
+        "Bắc Ninh",
+        "Bến Tre",
+        "Bình Dương",
+        "Bình Phước",
+        "Cà Mau",
+        "Cao Bằng",
+        "Đắk Lắk",
+        "Đắk Nông",
+        "Điện Biên",
+        "Đồng Nai",
+        "Đồng Tháp",
+        "Gia Lai",
+        "Hà Giang",
+        "Hà Nam",
+        "Hà Tĩnh",
+        "Hải Dương",
+        "Hậu Giang",
+        "Hòa Bình",
+        "Hưng Yên",
+        "Khánh Hòa",
+        "Kiên Giang",
+        "Kon Tum",
+        "Lai Châu",
+        "Lâm Đồng",
+        "Lạng Sơn",
+        "Lào Cai",
+        "Long An",
+        "Nam Định",
+        "Nghệ An",
+        "Ninh Bình",
+        "Ninh Thuận",
+        "Phú Thọ",
+        "Phú Yên",
+        "Quảng Bình",
+        "Quảng Nam",
+        "Quảng Ngãi",
+        "Quảng Ninh",
+        "Quảng Trị",
+        "Sóc Trăng",
+        "Sơn La",
+        "Tây Ninh",
+        "Thái Bình",
+        "Thái Nguyên",
+        "Thanh Hóa",
+        "Thừa Thiên-Huế",
+        "Tiền Giang",
+        "Trà Vinh",
+        "Tuyên Quang",
+        "Vĩnh Long",
+        "Vĩnh Phúc",
+        "Yên Bái"
+      ]
+    }
+  ]
+}
